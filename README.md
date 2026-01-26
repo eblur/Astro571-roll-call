@@ -6,7 +6,7 @@ Roll call activity designed to practice open source collaboration
 
 | Name  | Github handle | Repo link |
 |------|---------------|--------------|
-| Prof L. Corrales | eblur | [https://github.com/eblur/W26-roll-call](https://github.com/eblur/W26-roll-call) |
+| Prof L. Corrales | eblur | [https://github.com/eblur/Astro571-roll-call](https://github.com/eblur/Astro571-roll-call) |
 | John Brown | -- | -- |
 | Dasha Crocker | -- | -- |
 | Maria Jose Colmenares Diaz | -- | -- |
