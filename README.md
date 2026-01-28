@@ -9,7 +9,7 @@ Roll call activity designed to practice open source collaboration
 | Prof L. Corrales | eblur | [https://github.com/eblur/Astro571-roll-call](https://github.com/eblur/Astro571-roll-call) |
 | John Brown | -- | -- |
 | Dasha Crocker | -- | -- |
-| Maria Jose Colmenares Diaz | -- | -- |
+| Maria Jose Colmenares Diaz | mjcolmen | my repo is private :( |
 | Cayenne Matt | -- | -- |
 | Brandon Sike | -- | -- |
 | Zihao Zuo | -- | -- |
