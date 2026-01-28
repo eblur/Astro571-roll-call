@@ -11,7 +11,7 @@ Roll call activity designed to practice open source collaboration
 | Dasha Crocker | -- | -- |
 | Maria Jose Colmenares Diaz | -- | -- |
 | Cayenne Matt | -- | -- |
-| Brandon Sike | -- | -- |
+| Brandon Sike | bsike | [https://github.com/bsike/Astro571-roll-call/](https://github.com/bsike/Astro571-roll-call/) |
 | Zihao Zuo | -- | -- |
 
 ## Instructions
