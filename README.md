@@ -10,8 +10,8 @@ Roll call activity designed to practice open source collaboration
 | John Brown | -- | -- |
 | Dasha Crocker | -- | -- |
 | Maria Jose Colmenares Diaz | mjcolmen | my repo is private :( |
-| Cayenne Matt | -- | -- |
-| Brandon Sike | -- | -- |
+| Cayenne Matt | gwb_analysis | [https://github.com/CayenneMatt/gwb_analysis](https://github.com/CayenneMatt/gwb_analysis) |
+| Brandon Sike | bsike | [https://github.com/bsike/Astro571-roll-call/](https://github.com/bsike/Astro571-roll-call/) |
 | Zihao Zuo | -- | -- |
 
 ## Instructions
